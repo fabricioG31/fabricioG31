@@ -12,7 +12,7 @@
  <br>
  
  
-  a> 
+
  
   ![Snake animation](https://github.com/fabricioG31/fabricioG31/blob/output/github-contribution-grid-snake.svg)
 
