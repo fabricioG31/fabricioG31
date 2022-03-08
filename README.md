@@ -11,10 +11,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
-
-  <a href = "fabriciosiva282gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   a> 
  
   ![Snake animation](https://github.com/fabricioG31/fabricioG31/blob/output/github-contribution-grid-snake.svg)
